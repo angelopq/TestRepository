@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="FirstGITProject.MvcApplication" Language="C#" test %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="FirstGITProject.MvcApplication" Language="C#" %>
